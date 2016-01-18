@@ -1,0 +1,17 @@
+<style>
+	DIV.table 
+        {
+            display:table;
+            border-collapse: collapse;
+        }
+        FORM.tr, DIV.tr
+        {
+            display:table-row;
+        }
+        SPAN.td
+        {
+            display:table-cell;
+            border-bottom: 1px dotted black;
+            padding:5px;
+        }
+</style>
